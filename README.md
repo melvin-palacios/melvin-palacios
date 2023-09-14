@@ -26,7 +26,7 @@ Je suis un étudiant en formation informatique à La Plateforme dans le cursus B
 
 ## Mes projets 🚀
 
-Vous pouvez consulter mes projets sur mon [portfolio](https://melvin-palacios.students-laplateforme.io)(actuellement vide) ou sur mon [github](https://github.com/melvin-palacios).
+Vous pouvez consulter mes projets sur mon [portfolio](https://melvin-palacios.students-laplateforme.io) ou sur mon [github](https://github.com/melvin-palacios).
 
 ## Mes liens 🔗
 
